@@ -78,8 +78,3 @@ Install dependencies with (**not needed if you reading the file with Anaconda di
 ```bash
 pip install pandas numpy jupyter
 ```
-
-
-
-Le
-t me know if you want this customized with more details or want the markdown file generated!
